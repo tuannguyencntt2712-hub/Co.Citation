@@ -20,7 +20,6 @@ Open VOSviewer 1.6.20 → *Create* → *Map based on bibliographic data* → **S
 1. Obtain the cleaned dataset (Scopus export) from the code+data repository:  
    https://github.com/tuannguyencntt2712-hub/music-events-tourism-bibliometrix
 2. Follow `settings/vosviewer_settings.md` and the steps above to regenerate the map.
-3. (Optional) Export a vector version (`maps/rcca_map.svg`) for scalable use.
 
 ## Notes
 - VOSviewer layouts are stochastic; minor visual differences can occur across runs.
