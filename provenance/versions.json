@@ -1,0 +1,15 @@
+{
+  "freeze_date": "2025-07-10",
+  "tool": "VOSviewer 1.6.20",
+  "map": "reference co-citation",
+  "counting": "full",
+  "min_citations": 6,
+  "normalization": "association strength",
+  "clustering": {"resolution": 1.0, "min_cluster_size": 5},
+  "thesaurus": "thesaurus/thesaurus_light.txt",
+  "input_export": "scopus_clean_232.csv",
+  "created_utc": "2025-09-17T00:00:00Z",
+  "links": {
+    "code_and_queries": "https://github.com/tuannguyencntt2712-hub/music-events-tourism-bibliometrix"
+  }
+}

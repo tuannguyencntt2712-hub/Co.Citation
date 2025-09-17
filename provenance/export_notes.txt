@@ -1,0 +1,30 @@
+Provenance / Export notes
+=========================
+Freeze date for citation indicators: 2025-07-10
+CPY reference year: 2025
+Search date: 2025-07-10
+
+Input dataset: scopus_clean_232.csv
+Input source: https://github.com/tuannguyencntt2712-hub/music-events-tourism-bibliometrix
+Tool and version: VOSviewer 1.6.20
+
+Map type: Reference co-citation (unit = cited references)
+Counting method: Full counting
+Minimum citations of a cited reference: 6
+Normalization: Association strength
+Clustering: resolution = 1.0; min cluster size = 5
+Thesaurus file used: thesaurus/thesaurus_light.txt
+
+Output files:
+- maps/cocitation.png  (exported directly from VOSviewer; ≥1200 px)
+
+Map created on (UTC): 2025-09-17 13:13:37Z
+
+Reproduction:
+1) Load the cleaned Scopus export (scopus_clean_232.csv) in VOSviewer (Create → Map based on bibliographic data → Scopus).
+2) Choose Co-citation (unit = cited references); apply the settings above.
+3) Load the thesaurus file to harmonize labels; export the PNG.
+
+Notes:
+- Layout has inherent randomness; exact node positions can differ slightly on each run.
+- Ensure the input export corresponds to the same freeze date or update the freeze metadata accordingly.
