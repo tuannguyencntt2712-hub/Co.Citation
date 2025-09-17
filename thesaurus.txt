@@ -1,4 +1,0 @@
-label,replace by
-"getz d., event management & event tourism, (1997)","getz d., event management and event tourism, (1997)"
-"getz d., festivals, special events, and tourism, (1991)","getz d., festivals, special events and tourism, (1991)"
-"pegg s., patterson i., rethinking music festivals as a staged event: gaining insights from understanding visitor motivations and the experiences they seek, journal of convention and event tourism, 11, 2, pp. 85-99, (2010)","pegg s., patterson i., rethinking music festivals as a staged event: gaining insights from understanding visitor motivations and the experiences they seek, journal of convention & event tourism, 11, 2, pp. 85-99, (2010)"
